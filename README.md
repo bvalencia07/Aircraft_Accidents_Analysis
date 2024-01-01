@@ -20,8 +20,12 @@ This project will consist of working with the Aviation Dataset that consists of 
 
 ## Results
 
-Upon examining the dataset, one is able to notice that single engine aircrafts and reciprocating engine types have the highest number of reported accidents within the dataset. While aiplanes with two engines and that ran on turbo fans appeared to be the safest. With that knowledge in mind, one is able to further find that airplanes that come from the Boeing brand seem to be the most reappearing airplanes that reported back zero serious injuries
+Upon examining the dataset, one is able to notice that single engine aircrafts and reciprocating engine types have the highest number of reported accidents within the dataset. While aiplanes with two engines and that ran on turbo fans appeared to be the safest. With that knowledge in mind, one is able to further find that airplanes 
+that come from the Boeing brand seem to be the most reappearing airplanes that reported back zero serious injuries
+
+
 <img width="442" alt="Screenshot 2024-01-01 014419" src="https://github.com/bvalencia07/Aircraft_Accidents_Analysis/assets/149977850/30919ac8-67f7-4775-a149-adf2344ddff0">
+
 <img width="349" alt="Screenshot 2024-01-01 014508" src="https://github.com/bvalencia07/Aircraft_Accidents_Analysis/assets/149977850/8e09bd36-228c-45cb-83a9-f89e0f10d521">
 
 ## Tableau
