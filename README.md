@@ -16,6 +16,8 @@ Upon examining the dataset, one is able to notice that single engine aircrafts a
 
 ## Tableau
 
-For further visual understanding of the dataset, visit tableau
+For further visual understanding of the dataset, visit [tableau](https://public.tableau.com/app/profile/bryan.valencia5690/viz/AviationAnalysis_17040920392270/AviationDashboard?publish=yes)
 
 ## Conclusion
+
+In conclusion, the stakeholders should avoid single engine reciprocating aircrafts as those are considered to have the highest risk and should turn to turbo fan aircrafts with two engines, specifically those manufactured by Boeing as those would be the lowest risk. That being said, I would recommend the Boeing 737 and Boeing 777 for commercial use, and the Learjet 35 for private use.
