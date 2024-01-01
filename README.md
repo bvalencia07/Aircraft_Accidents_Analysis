@@ -13,6 +13,8 @@ Figure out what aircrafts impose the least amount of risk for both commercial an
 ## Data Preparation 
 
 This project will consist of working with the Aviation Dataset that consists of a spreadsheet containing information on aircraft accidents over the last few decades. Which includes aircraft make and model, number of fatalities, weather conditions, and more.
+<img width="442" alt="Screenshot 2024-01-01 014419" src="https://github.com/bvalencia07/Aircraft_Accidents_Analysis/assets/149977850/2ae1f63a-a923-41f0-a1ad-f3b83bbc9d76">
+<img width="666" alt="Screenshot 2024-01-01 014211" src="https://github.com/bvalencia07/Aircraft_Accidents_Analysis/assets/149977850/9232eab2-7255-43fb-b282-d15ee00ffef4">
 
 ## Results
 
